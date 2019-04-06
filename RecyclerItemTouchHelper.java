@@ -1,11 +1,4 @@
-/*
- * Developed by Peter Brüesch on 21/08/18 20:09.
- * Last modified 31/07/18 01:14.
- * Copyright (c) 2018. All Rights Reserved.
- *
- */
-
-package petertest.myapplication;
+package my.package;
 
 import android.graphics.Canvas;
 import android.support.v7.widget.RecyclerView;
